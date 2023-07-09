@@ -1,5 +1,6 @@
 # Maven-Tour-de-France-Challenge-PowerBI
 The Tour de France Power BI infographics Report caters to users' interest in the race's history, current standings, and strategic insights by offering a comprehensive entertaining experience and engage with one of the most renowned cycling competition.
+
 ![Tour original](https://github.com/pritishgp/Maven-Tour-de-France-Challenge-PowerBI/assets/133867934/41dd1817-76b7-46ac-9837-a6460f248a77)
 ![Tour 2](https://github.com/pritishgp/Maven-Tour-de-France-Challenge-PowerBI/assets/133867934/1bda180e-df51-4584-8c15-6873f2a18c35)
 
